@@ -37,3 +37,7 @@
   background:red; 
   border-radius: 30px;
 }
+
+.unchecked:hover{
+  color: red;
+}
